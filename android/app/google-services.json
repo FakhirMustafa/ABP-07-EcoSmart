@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111262480834",
+    "project_id": "tubes-abp-07",
+    "storage_bucket": "tubes-abp-07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111262480834:android:a9df27c71da25fda927e5b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jsvp6HWINp1NIFdZhaI0Iwo0ZX_9TKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
