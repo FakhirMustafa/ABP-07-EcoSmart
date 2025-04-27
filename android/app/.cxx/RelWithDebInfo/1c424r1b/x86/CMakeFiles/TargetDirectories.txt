@@ -1,0 +1,2 @@
+E:/Tugas Besar/tubes_abp/android/app/.cxx/RelWithDebInfo/1c424r1b/x86/CMakeFiles/edit_cache.dir
+E:/Tugas Besar/tubes_abp/android/app/.cxx/RelWithDebInfo/1c424r1b/x86/CMakeFiles/rebuild_cache.dir
